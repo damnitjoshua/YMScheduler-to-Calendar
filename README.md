@@ -11,7 +11,7 @@ This Chrome extension helps users convert YMScheduler class schedules to their G
 
 ## Installation
 
-1. **Open Google Chrome and go to `chrome://extensions/`.**
+1. **Clone or download this repository. Then, open Google Chrome and go to `chrome://extensions/`.**
 
 2. **Enable "Developer mode" in the top right corner.**
 
