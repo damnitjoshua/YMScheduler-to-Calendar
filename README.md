@@ -32,3 +32,7 @@ This Chrome extension helps users convert YMScheduler class schedules to their G
 ## Contributing
 
 If you'd like to contribute to the project, please create a pull request.
+
+## Developers
+
+1. **Joshua Chew Jay Han https://www.linkedin.com/in/jcjh/.**
