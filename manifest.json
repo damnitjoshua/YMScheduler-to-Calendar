@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "Popup Extension",
+	"name": "YMScheduler to Google Calendar",
 	"version": "1.0",
-	"description": "A simple Chrome extension with a popup",
+	"description": "This Chrome extension helps users convert YMScheduler class schedules to their Google Calendar.",
 	"action": {
 		"default_popup": "popup.html",
 		"default_icon": {
