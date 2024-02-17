@@ -1,3 +1,4 @@
+![Alt text](thumbnail.png?raw=true "Thumbnail")
 # YMScheduler to Google Calendar Chrome Extension
 
 ## Overview
