@@ -9,6 +9,10 @@ This Chrome extension helps users convert YMScheduler class schedules to their G
 - View class information within the extension popup.
 - Add classes to Google Calendar directly from the extension.
 
+## Limitations
+
+- Cannot set the date and time in Google Calender
+
 ## Installation
 
 1. **Clone or download this repository. Then, open Google Chrome and go to `chrome://extensions/`.**
